@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trafficguardian.com.br/sitemap.xml
